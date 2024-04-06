@@ -1,0 +1,253 @@
+[
+  {
+    "country": "India",
+    "city": "New Delhi",
+    "no":1
+  },
+  {
+    "country": "Ukraine",
+    "city": "Kyiv",
+    "no":2
+  },
+  {
+    "country": "Malaysia",
+    "city": "Kuala Lumpur",
+    "no":3
+  },
+  {
+    "country": "Nigeria",
+    "city": "Abuja",
+    "no":4
+  },
+  {
+    "country": "Maldives",
+    "city": "Male",
+    "no":5
+  },
+  {
+    "country": "United Kingdom",
+    "city": "London",
+    "no":6
+  },
+  {
+    "country": "Faroe Islands",
+    "city": "Tórshavn",
+    "no":7
+  },
+  {
+    "country": "Sweden",
+    "city": "Stockholm",
+    "no":8
+  },
+  {
+    "country": "France",
+    "city": "Paris",
+    "no":9
+  },
+  {
+    "country": "Mali",
+    "city": "Bamako",
+    "no":10
+  },
+  {
+    "country": "Azerbaijan",
+    "city": "Baku",
+    "no":11
+  },
+  {
+    "country": "Jamaica",
+    "city": "Kingston",
+    "no":12
+  },
+  {
+    "country": "Palau",
+    "city": "Koror",
+    "no":13
+  },
+  {
+    "country": "Russian",
+    "city": "Moscow",
+    "no":14
+  },
+  {
+    "country": "Austria",
+    "city": "Wien",
+    "no":15
+  },
+  {
+    "country": "Bulgaria",
+    "city": "Sofia",
+    "no":16
+  },
+  {
+    "country": "Italy",
+    "city": "Roma",
+    "no":17
+  },
+  {
+    "country": "Northern Ireland",
+    "city": "Belfast",
+    "no":18
+  },
+  {
+    "country": "Virgin Islands, U.S.",
+    "city": "Charlotte Amalie",
+    "no":19
+  },
+  {
+    "country": "Venezuela",
+    "city": "Caracas",
+    "no":20
+  },
+  {
+    "country": "Yemen",
+    "city": "Sanaa",
+    "no":21
+  },
+  {
+    "country": "Romania",
+    "city": "Bucuresti",
+    "no":22
+  },
+  {
+    "country": "Paraguay",
+    "city": "Asunción",
+    "no":23
+  },
+  {
+    "country": "Algeria",
+    "city": "Alger",
+    "no":24
+  },
+  {
+    "country": "Antigua and Barbuda",
+    "city": "Saint John's",
+    "no":25
+  },
+  {
+    "country": "Bahrain",
+    "city": "al-Manama",
+    "no":26
+  },
+  {
+    "country": "Slovakia",
+    "city": "Bratislava",
+    "no":27
+  },
+  {
+    "country": "Singapore",
+    "city": "Singapore",
+    "no":28
+  },
+  {
+    "country": "Guinea",
+    "city": "Conakry",
+    "no":29
+  },
+
+  {
+    "country": "Ukraine",
+    "city": "Kyiv",
+    "no":30
+  },
+  {
+    "country": "Gambia",
+    "city": "Banjul",
+    "no":31
+  },
+  {
+    "country": "Marshall Islands",
+    "city": "Dalap-Uliga-Darrit",
+    "no":32
+  },
+  {
+    "country": "Malaysia",
+    "city": "Kuala Lumpur",
+    "no":33
+  },
+  {
+    "country": "Nigeria",
+    "city": "Abuja",
+    "no":34
+  },
+  {
+    "country": "Maldives",
+    "city": "Male",
+    "no":35
+  },
+  {
+    "country": "United Kingdom",
+    "city": "London",
+    "no":36
+  },
+  {
+    "country": "Faroe Islands",
+    "city": "Tórshavn",
+    "no":37
+  },
+  {
+    "country": "Sweden",
+    "city": "Stockholm",
+    "no":38
+  },
+  {
+    "country": "France",
+    "city": "Paris",
+    "no":39
+  },
+  {
+    "country": "Mali",
+    "city": "Bamako",
+    "no":40
+  },
+  {
+    "country": "Macao",
+    "city": "Macao",
+    "no":41
+  },
+  {
+    "country": "Azerbaijan",
+    "city": "Baku",
+    "no":42
+  },
+  {
+    "country": "Jamaica",
+    "city": "Kingston",
+    "no":43
+  },
+  {
+    "country": "Palau",
+    "city": "Koror",
+    "no":44
+  },
+  {
+    "country": "Russian Federation",
+    "city": "Moscow",
+    "no":45
+  },
+  {
+    "country": "Austria",
+    "city": "Wien",
+    "no":46
+  },
+  {
+    "country": "Bulgaria",
+    "city": "Sofia",
+    "no":47
+  },
+  {
+    "country": "Monaco",
+    "city": "Monaco-Ville",
+    "no":48
+  },
+  {
+    "country": "Italy",
+    "city": "Roma",
+    "no":49
+  },
+  {
+    "country": "Northern Ireland",
+    "city": "Belfast",
+    "no":50
+  }
+]
